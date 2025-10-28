@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "PantryWise",
+  "signinCreate": "Sign in / Create account",
+  "ctaContinueTrial": "Continue (7-day free trial)",
+  "dashboard": "Dashboard",
+  "scanReceipt": "Scan Receipt",
+  "addProduct": "Add Product",
+  "pdfReport": "PDF Report",
+  "shareHousehold": "Share Household",
+  "scanPurchase": "Scan Purchase",
+  "homeInventory": "Home Inventory",
+  "reports": "Reports",
+  "settings": "Settings",
+  "language": "Language",
+  "country": "Country"
+}
