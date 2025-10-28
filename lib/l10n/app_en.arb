@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "PantryWise",
+  "signinCreate": "Sign in / Create account",
+  "dashboard": "Dashboard",
+  "scanReceipt": "Scan Receipt",
+  "reports": "Reports",
+  "settings": "Settings"
+}
+
